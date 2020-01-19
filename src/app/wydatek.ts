@@ -10,4 +10,4 @@ export class Wydatek {
         public ileLitrow?: number) {
     }
 }
-export const KATEGORIE = [ 'Tankowanie', 'Myjnia', 'Serwis', 'Inne', 'Wydatki' ];
+export const KATEGORIE = [ 'Tankowanie', 'Myjnia', 'Serwis', 'Inne'];
